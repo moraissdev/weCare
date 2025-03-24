@@ -108,11 +108,10 @@ header {
 @media screen and (max-width: 900px) {
 
     header {
-        display: grid;
-        grid-template-columns: 1fr 1fr 1fr;
-        margin: 35px auto 0px;
+        display: block;
         text-align: center;
         align-items: center;
+        margin: 35px auto 0px;
     }
 
     .header-link {
