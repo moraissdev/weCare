@@ -128,7 +128,7 @@ header {
         font-size: 60px;
         font-weight: 900;
         width: auto;
-        margin: 15px 64px;
+        margin: 15px 0px;
     }
 
     .subtitle {
@@ -136,7 +136,7 @@ header {
         line-height: 37px;
         font-size: 30px;
         font-weight: 500;
-        margin: 15px 79px;
+        margin: 15px 0px;
         width: auto;
     }
 
@@ -148,7 +148,7 @@ header {
     .section-image {
         width: 380px;
         height: 380px;
-        margin: 30px 20px;
+        margin: 30px 20px 5px;
     }
 }
 
