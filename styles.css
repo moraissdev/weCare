@@ -112,6 +112,7 @@ header {
         grid-template-columns: 1fr 1fr 1fr;
         margin: 35px auto 0px;
         text-align: center;
+        align-items: center;
     }
 
     .header-link {
