@@ -146,13 +146,9 @@ header {
     }
 
     .section-image {
-        width: 450px;
+        width: 400px;
         height: 400px;
         margin: 30px 20px;
-    }
-
-    .image {
-        padding: 0px 15px;
     }
 }
 
