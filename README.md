@@ -1,4 +1,4 @@
-<h1 align="center">Cuidados com os Animais de Estimação 🐶</h1>
+<h1 align="center">Cuidamos do seu Pet 🐶</h1>
 
 ###
 
@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img height="400" src="https://camo.githubusercontent.com/429d1af1b25771df0f5ed794664eef84fcaba29f6adea494d8841dac14f0a0ff/68747470733a2f2f692e696d6775722e636f6d2f57447430634e6c2e706e67"  />
+  <img height="400" src="https://i.imgur.com/ttPtvv0.png"  />
 </div>
 
 ###
@@ -25,7 +25,7 @@
 ###
 
 <div align="left">
-  <img height="425" src="https://i.imgur.com/i641MOn.png"  />
+  <img height="425" src="https://i.imgur.com/AvifJ2g.png"  />
 </div>
 
 ###
