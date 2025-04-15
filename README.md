@@ -1,4 +1,4 @@
-<h1 align="center">Cuidados com os Animais de Estimação 🐶</h1>
+<h1 align="center">Cuidamos do seu Pet 🐶</h1>
 
 ###
 
