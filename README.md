@@ -1,4 +1,4 @@
-<h1 align="center">Cuidamos do seu Pet 🐶</h1>
+<h1 align="center">Cuidamos do Seu Pet 🐶</h1>
 
 ###
 
